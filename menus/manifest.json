@@ -1,27 +1,27 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-18T05:56:53.811627Z",
-  "generatedAt": "2026-10-18T05:56:53.811627Z",
+  "version": "2026-10-18T07:38:50.912919Z",
+  "generatedAt": "2026-10-18T07:38:50.912919Z",
   "files": {
     "ladies_vegAndNonVeg_2026-10": {
-      "version": "2026-10-18T05:56:53.811627Z",
+      "version": "2026-10-18T07:38:50.912919Z",
       "url": "ladies_vegAndNonVeg_2026-10.json",
-      "sha256": "fad1d231099a639a2d3b61ca25e9f5d145a75b2a46f3a8a2c85ff3450c02cb02"
+      "sha256": "c7e6d7b22efebabb620a3a4d4a0d1ff91486e3f4bad1efe0bc486cda7132eb5e"
     },
     "ladies_special_2026-10": {
-      "version": "2026-10-18T05:56:53.852125Z",
+      "version": "2026-10-18T07:38:50.950681Z",
       "url": "ladies_special_2026-10.json",
-      "sha256": "f12cfc20a597fda8722f9cf142fe3f2fc1a40684cbfcfdb89b80c3583200e5aa"
+      "sha256": "c1b752f213e030a3b6182035ee18c5ede2e70c7852cdae65832532d03a1d849a"
     },
     "mens_vegAndNonVeg_2026-10": {
-      "version": "2026-10-18T05:56:53.859132Z",
+      "version": "2026-10-18T07:38:50.955082Z",
       "url": "mens_vegAndNonVeg_2026-10.json",
-      "sha256": "e5248b3e143d10d6ae96715995c89924a3dee83592d0f646cbef0f1b086c67fe"
+      "sha256": "4b0dd4a288e0d00683c03409c6dd874dfc50804af0123bbd139ce4f4749b0ee5"
     },
     "mens_special_2026-10": {
-      "version": "2026-10-18T05:56:53.866691Z",
+      "version": "2026-10-18T07:38:50.962970Z",
       "url": "mens_special_2026-10.json",
-      "sha256": "800d5fd3936670191f3e4917a87d1d5542fd0a543efc9615ba63792a4d3b0b49"
+      "sha256": "1e0253bada58039b9d38818a24ad1d7e71491b33d1d53aa6272e49a6ee6e318c"
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "year": 2026,
   "month": 10,
-  "generatedAt": "2026-10-18T05:56:53.811627Z",
+  "generatedAt": "2026-10-18T07:38:50.912919Z",
   "days": [
     {
       "date": "2026-10-01",
@@ -40,7 +40,7 @@
           },
           {
             "text": "Boiled Egg",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
@@ -191,7 +191,7 @@
           },
           {
             "text": "Egg Burji",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
@@ -288,11 +288,11 @@
           },
           {
             "text": "Chilli Chicken Starter",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           },
           {
             "text": "Chilli Paneer Starter",
-            "dietTag": "unspecified"
+            "dietTag": "veg"
           },
           {
             "text": "Fruit Custard",
@@ -346,7 +346,7 @@
           },
           {
             "text": "Boiled Egg",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
@@ -501,7 +501,7 @@
           },
           {
             "text": "Vegetable Scrambled Egg",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
@@ -523,11 +523,11 @@
           },
           {
             "text": "Hyderabadi Chicken Dum Biryani",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           },
           {
             "text": "Hyderabadi Paneer Dum Biryani",
-            "dietTag": "unspecified"
+            "dietTag": "veg"
           },
           {
             "text": "Mirchi Ka Salan",
@@ -650,7 +650,7 @@
           },
           {
             "text": "Coriander & Chilli Omlette",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
@@ -747,11 +747,11 @@
           },
           {
             "text": "Gongura Chicken Curry",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           },
           {
             "text": "Palak Paneer Curry",
-            "dietTag": "unspecified"
+            "dietTag": "veg"
           },
           {
             "text": "Fresh Cut Fruit",
@@ -805,7 +805,7 @@
           },
           {
             "text": "Egg Pepper Fry",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
@@ -948,7 +948,7 @@
           },
           {
             "text": "Boiled Egg",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
@@ -978,12 +978,12 @@
           },
           {
             "text": "Hariyali Chicken Curry",
-            "dietTag": "unspecified",
+            "dietTag": "nonVeg",
             "styleTag": "Indian"
           },
           {
             "text": "Shahi Paneer Curry",
-            "dietTag": "unspecified",
+            "dietTag": "veg",
             "styleTag": "North Style"
           },
           {
@@ -1095,7 +1095,7 @@
           },
           {
             "text": "Scrambled egg",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
@@ -1242,7 +1242,7 @@
           },
           {
             "text": "Masala Omlete",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
@@ -1335,12 +1335,12 @@
           },
           {
             "text": "Tawa Fish Fry (1 Pc Big) 2nd Week/ Chicken Pakoda 4th week/ Mushroom",
-            "dietTag": "unspecified",
+            "dietTag": "nonVeg",
             "isAmbiguous": true
           },
           {
             "text": "Chilli Paneer Starter",
-            "dietTag": "unspecified"
+            "dietTag": "veg"
           },
           {
             "text": "Fruit Salad",
@@ -1394,7 +1394,7 @@
           },
           {
             "text": "Egg Pepper Fry",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
@@ -1537,7 +1537,7 @@
           },
           {
             "text": "Boiled Egg",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
@@ -1559,11 +1559,11 @@
           },
           {
             "text": "Chicken Fry peice Biryani",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           },
           {
             "text": "Chatpata Paneer Biryani\r\nMirchi Ka salan\r\nRaitha",
-            "dietTag": "unspecified"
+            "dietTag": "veg"
           },
           {
             "text": "Curd",
@@ -1677,7 +1677,7 @@
           },
           {
             "text": "Coriander & Chilli Omlette",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
@@ -1770,11 +1770,11 @@
           },
           {
             "text": "Mogalai Chicken Curry",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           },
           {
             "text": "Paneer Butter Masala Curry",
-            "dietTag": "unspecified"
+            "dietTag": "veg"
           },
           {
             "text": "Fresh Cut Fruit",
@@ -1828,7 +1828,7 @@
           },
           {
             "text": "Boiled Egg",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
@@ -1975,7 +1975,7 @@
           },
           {
             "text": "Masala Scrambled Egg",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
@@ -2118,7 +2118,7 @@
           },
           {
             "text": "Boiled Egg",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
@@ -2269,7 +2269,7 @@
           },
           {
             "text": "Egg Burji",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
@@ -2366,11 +2366,11 @@
           },
           {
             "text": "Chilli Chicken Starter",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           },
           {
             "text": "Chilli Paneer Starter",
-            "dietTag": "unspecified"
+            "dietTag": "veg"
           },
           {
             "text": "Fruit Custard",
@@ -2424,7 +2424,7 @@
           },
           {
             "text": "Boiled Egg",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
@@ -2579,7 +2579,7 @@
           },
           {
             "text": "Vegetable Scrambled Egg",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
@@ -2601,11 +2601,11 @@
           },
           {
             "text": "Hyderabadi Chicken Dum Biryani",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           },
           {
             "text": "Hyderabadi Paneer Dum Biryani",
-            "dietTag": "unspecified"
+            "dietTag": "veg"
           },
           {
             "text": "Mirchi Ka Salan",
@@ -2728,7 +2728,7 @@
           },
           {
             "text": "Coriander & Chilli Omlette",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
@@ -2825,11 +2825,11 @@
           },
           {
             "text": "Gongura Chicken Curry",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           },
           {
             "text": "Palak Paneer Curry",
-            "dietTag": "unspecified"
+            "dietTag": "veg"
           },
           {
             "text": "Fresh Cut Fruit",
@@ -2883,7 +2883,7 @@
           },
           {
             "text": "Egg Pepper Fry",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
@@ -3026,7 +3026,7 @@
           },
           {
             "text": "Boiled Egg",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
@@ -3056,12 +3056,12 @@
           },
           {
             "text": "Hariyali Chicken Curry",
-            "dietTag": "unspecified",
+            "dietTag": "nonVeg",
             "styleTag": "Indian"
           },
           {
             "text": "Shahi Paneer Curry",
-            "dietTag": "unspecified",
+            "dietTag": "veg",
             "styleTag": "North Style"
           },
           {
@@ -3173,7 +3173,7 @@
           },
           {
             "text": "Scrambled egg",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
@@ -3320,7 +3320,7 @@
           },
           {
             "text": "Masala Omlete",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
@@ -3413,12 +3413,12 @@
           },
           {
             "text": "Tawa Fish Fry (1 Pc Big) 2nd Week/ Chicken Pakoda 4th week/ Mushroom",
-            "dietTag": "unspecified",
+            "dietTag": "nonVeg",
             "isAmbiguous": true
           },
           {
             "text": "Chilli Paneer Starter",
-            "dietTag": "unspecified"
+            "dietTag": "veg"
           },
           {
             "text": "Fruit Salad",
@@ -3472,7 +3472,7 @@
           },
           {
             "text": "Boiled Egg",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
@@ -3631,7 +3631,7 @@
           },
           {
             "text": "Boiled Egg",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
@@ -3653,11 +3653,11 @@
           },
           {
             "text": "Chicken Fry peice Biryani",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           },
           {
             "text": "Chatpata Paneer Biryani\r\nMirchi Ka salan\r\nRaitha",
-            "dietTag": "unspecified"
+            "dietTag": "veg"
           },
           {
             "text": "Curd",
@@ -3771,7 +3771,7 @@
           },
           {
             "text": "Coriander & Chilli Omlette",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
@@ -3864,11 +3864,11 @@
           },
           {
             "text": "Mogalai Chicken Curry",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           },
           {
             "text": "Paneer Butter Masala Curry",
-            "dietTag": "unspecified"
+            "dietTag": "veg"
           },
           {
             "text": "Fresh Cut Fruit",
@@ -3922,7 +3922,7 @@
           },
           {
             "text": "Boiled Egg",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
@@ -4069,7 +4069,7 @@
           },
           {
             "text": "Masala Scrambled Egg",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
@@ -4212,7 +4212,7 @@
           },
           {
             "text": "Boiled Egg",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
@@ -4363,7 +4363,7 @@
           },
           {
             "text": "Egg Burji",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
@@ -4460,11 +4460,11 @@
           },
           {
             "text": "Chilli Chicken Starter",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           },
           {
             "text": "Chilli Paneer Starter",
-            "dietTag": "unspecified"
+            "dietTag": "veg"
           },
           {
             "text": "Fruit Custard",
@@ -4518,7 +4518,7 @@
           },
           {
             "text": "Egg Pepper Fry",
-            "dietTag": "unspecified"
+            "dietTag": "nonVeg"
           }
         ],
         "lunch": [
