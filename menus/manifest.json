@@ -1,7 +1,7 @@
 {
     "schemaVersion":  1,
-    "version":  "2026-10-31T09:13:26.562829Z",
-    "generatedAt":  "2026-10-31T09:13:26.562829Z",
+    "version":  "2026-11-03T02:57:43.573759Z",
+    "generatedAt":  "2026-11-03T02:57:43.573759Z",
     "files":  {
                   "ladies_vegAndNonVeg_2026-10":  {
                                                       "version":  "2026-10-18T07:38:50.912919Z",
@@ -32,6 +32,16 @@
                                                  "version":  "2026-10-31T09:13:26.625868Z",
                                                  "url":  "ladies_special_2026-11.json",
                                                  "sha256":  "eef44c75f390131e5807eb636ff9dd1c2967fbfb2dff1ff987d5f4f940f91b17"
-                                             }
+                                             },
+                  "mens_vegAndNonVeg_2026-11":  {
+                                                    "version":  "2026-11-03T02:57:43.574787Z",
+                                                    "url":  "mens_vegAndNonVeg_2026-11.json",
+                                                    "sha256":  "3d092986850e6151f80163d2d8c1445b220b412dc8dbdcf686ee3d94010c86d3"
+                                                },
+                  "mens_special_2026-11":  {
+                                               "version":  "2026-11-03T02:57:43.624775Z",
+                                               "url":  "mens_special_2026-11.json",
+                                               "sha256":  "af1da3ca21f7edf00b21610774e78f898f69a8c00fd8d2b1143ce8e6c58e2a67"
+                                           }
               }
 }

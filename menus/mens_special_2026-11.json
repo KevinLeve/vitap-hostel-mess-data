@@ -1,0 +1,5287 @@
+{
+  "year": 2026,
+  "month": 11,
+  "generatedAt": "2026-11-03T02:57:43.624775Z",
+  "days": [
+    {
+      "date": "2026-11-01",
+      "hostel": "mens",
+      "menuType": "special",
+      "sourceDateLabel": "Sun\r\n1, 15, 29",
+      "items": {
+        "breakfast": [
+          {
+            "text": "Shavige Bath",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Paneer Paratha - 2 Pcs Thin",
+            "dietTag": "veg"
+          },
+          {
+            "text": "Peanut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd, Mango Pickle",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Brown Bread+Peanut Butter+Jam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sprouts (1 small cup)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Apple + Pomegranate Fresh Juice without Sugar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Cornflakes",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Egg Bhurji (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Raagi Malt (Veg)",
+            "dietTag": "veg"
+          }
+        ],
+        "lunch": [
+          {
+            "text": "Onions & Lemon Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chapathi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dal Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chicken Dum Biryani",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Paneer Dum Biryani",
+            "dietTag": "veg"
+          },
+          {
+            "text": "Chicken Thick Gravy",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Hyderabadi Mirchi Ka Salan",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Rasam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Onion Raitha",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Triangular Fryums",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mint Lemon Jal Jeera Drink (200 ml)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Fresh Gongura Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Vanilla Ice Cream  (Not Frozen Dessert)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Gulab Jamun",
+            "dietTag": "unspecified"
+          }
+        ],
+        "snacks": [
+          {
+            "text": "Cup Cake (Egg Less) 2 Pcs (1), Dahi Puri (8 Pcs), Onions (15, 29)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Masala Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          }
+        ],
+        "dinner": [
+          {
+            "text": "Beetroot & Carrot Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pulka",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pesara Pappu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Radish Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ragi Idly, Groundnut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dondakaya Stir Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Vegetable Kurma Gravy",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Papaya Cut Fruit",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Pickle",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Milk + Cofee Powder",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Lemon Coriander Soup",
+            "dietTag": "unspecified"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "hostel": "mens",
+      "menuType": "special",
+      "sourceDateLabel": "Mon\r\n2, 16, 30",
+      "items": {
+        "breakfast": [
+          {
+            "text": "Ghee + Veg Pongal",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Bhature - 2 Pcs Big",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Groundnut Chutney, Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chole Curry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Bread+Butter+Jam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sprouts (1 small cup)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Banana Milk Shake without Sugar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Cornflakes",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Boiled Egg (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Boiled Mixed Beans Salad (Veg)",
+            "dietTag": "veg"
+          }
+        ],
+        "lunch": [
+          {
+            "text": "Boiled Chana Salad with Onion & Tomato",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chapathi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Palak Dal",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Brinjal Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pesara Punugulu Curry (Pakka Andhra Style)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Capsicum Tomato Masala",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Fryums",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Butter Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sorakaya Perugu Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ghee + Podi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Jilebi",
+            "dietTag": "unspecified"
+          }
+        ],
+        "snacks": [
+          {
+            "text": "Dry Maggi (Non-Sticky)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Sauce",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          }
+        ],
+        "dinner": [
+          {
+            "text": "Onions & Lemon Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Butter Methi Naan",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pesara Pappu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Andhra Charu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Bhagara Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Hyderabadi Chicken Curry (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Paneer Butter Masala (Veg)",
+            "dietTag": "veg"
+          },
+          {
+            "text": "Ladies Finger Boiled Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Water Melon Cut Fruit",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Radish Fresh Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Milk + Cofee Powder",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sweet Corn Soup",
+            "dietTag": "unspecified"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "hostel": "mens",
+      "menuType": "special",
+      "sourceDateLabel": "Tue\r\n3, 17",
+      "items": {
+        "breakfast": [
+          {
+            "text": "Onion Dosa (3), Masala Dosa (17) - 2 Pcs Std Size",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Vada Pav",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Coconut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mint Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Brown Bread+Peanut Butter+Jam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ragi Malt with Salt (1 Medium Glass)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pomegranate Fresh Juice without Sugar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chocos",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Boiled Egg (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Crunchy Soya Vegetable Salad (Veg)",
+            "dietTag": "veg"
+          }
+        ],
+        "lunch": [
+          {
+            "text": "Carrot & Cucumber Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Roti",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dosakaya Pappu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Beetroot Tomato Rasam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Bisbele Bath",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Kakarakaya (Bitter Gourd) Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Rajma Masala",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Potato Chips",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dahi Vada",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dosakaya Tomato Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ghee + Podi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Makkan Peda",
+            "dietTag": "unspecified"
+          }
+        ],
+        "snacks": [
+          {
+            "text": "Aloo Samosa 1 Big Pc",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Sauce, Salt Mirchi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ginger Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          }
+        ],
+        "dinner": [
+          {
+            "text": "Beetroot & Carrot Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pulka",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dal Makhani",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Kadamba Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mushroom Biryani",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Cluster Beans Coconut Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Aloo Mutter Curry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Banana Fruit",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ginger Pickle",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Milk + Cofee Powder",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Brocolli Soup",
+            "dietTag": "unspecified"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "hostel": "mens",
+      "menuType": "special",
+      "sourceDateLabel": "Wed           4, 18",
+      "items": {
+        "breakfast": [
+          {
+            "text": "Pesarattu Thin 2 Pcs Std Size",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Suji Upma",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Coconut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ginger Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Bread+Butter+Jam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sprouts (1 small cup)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pineapple Fresh Juice without Sugar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chocos",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Masala Onion Omlet  (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Greek Yogurt Salad (Veg)",
+            "dietTag": "veg"
+          }
+        ],
+        "lunch": [
+          {
+            "text": "Onions & Lemon Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Palak Roti",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Amaranthus Dal",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pachi Pulusu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Bhagara Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Kadai Chicken",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Kadai Paneer",
+            "dietTag": "veg"
+          },
+          {
+            "text": "Vegetable Jalfrezi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Papad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Butter Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Fresh Vegetable Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Semiya Sabhudhana Kheer (4), Double ka Meeta (18)",
+            "dietTag": "unspecified"
+          }
+        ],
+        "snacks": [
+          {
+            "text": "Bhelpuri",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ginger Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          }
+        ],
+        "dinner": [
+          {
+            "text": "Beetroot & Carrot Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chapathi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Dal",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Garlic Rasam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Broken Wheat Rava Upma, Coconut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Bottle Guard Chana Dal Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Aloo Mutter Curry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pine Apple Cut Fruit",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Lemon Pickle",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Milk + Cofee Powder",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Soup with Roasted Bread",
+            "dietTag": "unspecified"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-05",
+      "hostel": "mens",
+      "menuType": "special",
+      "sourceDateLabel": "Thu\r\n5, 19",
+      "items": {
+        "breakfast": [
+          {
+            "text": "Medu Vada (Big size 3pcs, if not 4pcs)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pav Bhaji",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Coconut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Brown Bread+Butter+Jam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sprouts (1 small cup)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Papaya Fresh Juice without Sugar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Cornflakes",
+            "dietTag": "unspecified"
+          }
+        ],
+        "lunch": [
+          {
+            "text": "Carrot & Cucumber Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pulka",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ridge Gourd Dal",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Drumstick Brinjal Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pudina Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Guthi Vankaya Curry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Kala Chana Masala",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Finger Fryums",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Lemon Water + Sabja Seeds",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Potlakaya Perugu Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ghee + Podi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mothichoor Laddu",
+            "dietTag": "unspecified"
+          }
+        ],
+        "snacks": [
+          {
+            "text": "Mysore Bonda 2 Pcs Std Size (Less Oily)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Coconut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          }
+        ],
+        "dinner": [
+          {
+            "text": "Beetroot & Carrot Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Roti",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dal Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Beetroot Tomato Rasam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Veg Manchurian, Noodles, Tomato Sauce",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chicken Tikka Fry/Malabar Fish Fry (NV)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Paneer Tikka/Chilli Babycorn (Veg)",
+            "dietTag": "veg"
+          },
+          {
+            "text": "Dhaba Style Egg Curry (Special Non-Veg), Paneer Bhurji (Special Veg)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Rajma Masala",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Green Grapes",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Gongura Fresh Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Milk + Cofee Powder",
+            "dietTag": "unspecified"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-06",
+      "hostel": "mens",
+      "menuType": "special",
+      "sourceDateLabel": "Fri\r\n6, 20",
+      "items": {
+        "breakfast": [
+          {
+            "text": "Poori (3 pcs standard size)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Rice Rava Upma (Dry)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Aloo Basin Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dal Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Brown Bread+Peanut Butter+Jam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ragi Malt with Salt (1 Medium Glass)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Grapes Fresh Juice with Light Sugar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Museli",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Boiled Egg (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Boiled Chick Peas Salad (Veg)",
+            "dietTag": "veg"
+          }
+        ],
+        "lunch": [
+          {
+            "text": "Beetroot & Cucumber Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chapathi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dal Tadka",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Andhra Charu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Jeera Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Raw Banana Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Turnip Spinach Curry (Punjabi Style)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Papad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Lassi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Beerakaya Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Carrot Halwa",
+            "dietTag": "unspecified"
+          }
+        ],
+        "snacks": [
+          {
+            "text": "Sambar Vada 2 Pcs (Separate)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Masala Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          }
+        ],
+        "dinner": [
+          {
+            "text": "Onions & Lemon Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Beetroot Chapathi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dal",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mix Veg Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chicken Tikka Masala (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Paneer Lababdar (Veg)",
+            "dietTag": "veg"
+          },
+          {
+            "text": "Amritsari Chole",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Muskmelon Cut Fruit",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Amla Pickle",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Milk + Cofee Powder",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mix Veg Raagi Soup",
+            "dietTag": "unspecified"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-07",
+      "hostel": "mens",
+      "menuType": "special",
+      "sourceDateLabel": "Sat\r\n7, 21",
+      "items": {
+        "breakfast": [
+          {
+            "text": "Uggani + Mirchi Bajji",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Moong Dal Palak Tepla (Hand Made) 2 Pcs",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Groundnut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Onion Tomato Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Brown Bread+Peanut Butter+Jam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ragi Malt with Salt (1 Medium Glass)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mosambi Fresh Juice without Sugar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Cornflakes",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Boiled Egg (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Boiled Peanut Sundal (Veg)",
+            "dietTag": "veg"
+          }
+        ],
+        "lunch": [
+          {
+            "text": "Carrot & Cucumber Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pulka",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mudda Pappu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pachi Pulusu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pulihora (Tamarind Rice)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Cauli Flower Tomato Stir Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chole Curry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Papad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Majjiga Pulusu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Avakaya (Mango Pickle)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ghee + Podi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chocolate Cake (Egg Less)",
+            "dietTag": "unspecified"
+          }
+        ],
+        "snacks": [
+          {
+            "text": "Vada Pav 2 Pcs",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mint Sauce",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Cold Badam Milk 150 ml",
+            "dietTag": "unspecified"
+          }
+        ],
+        "dinner": [
+          {
+            "text": "Beetroot & Carrot Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Roti",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dal Maharani",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Drumstick Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ghee + Podi + Idly, Coconut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Baingan Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Banana",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Red Chilli Pickle",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Milk + Cofee Powder",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Veg Manchow Soup",
+            "dietTag": "unspecified"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-08",
+      "hostel": "mens",
+      "menuType": "special",
+      "sourceDateLabel": "Sun\r\n8, 22",
+      "items": {
+        "breakfast": [
+          {
+            "text": "Shavige Bath",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Aloo Paratha (2 Pcs Thin)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mint Coriander Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd, Mango Pickle",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Bread+Butter+Jam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sprouts (1 small cup)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Apple + Pomegranate Fresh Juice without Sugar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Museli",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Egg Bhurji (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Ragi Malt (Veg)",
+            "dietTag": "veg"
+          }
+        ],
+        "lunch": [
+          {
+            "text": "Onions & Lemon Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chapathi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dal Makhani",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chicken Fry Piece Biryani",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Paneer Fry Piece Biryani",
+            "dietTag": "veg"
+          },
+          {
+            "text": "Chicken Thick Gravy",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Hyderabadi Mirchi Ka Salan",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Onion Raitha",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Rasam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Fryums",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mint Lemon Jal Jeera Drink (200 ml)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Fresh Gongura Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Vanilla Ice Cream  (Not Frozen Dessert)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Gajar Ka Halwa",
+            "dietTag": "unspecified"
+          }
+        ],
+        "snacks": [
+          {
+            "text": "Dahi Papdi Chat",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Onions",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          }
+        ],
+        "dinner": [
+          {
+            "text": "Beetroot & Carrot Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pulka",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pesara Pappu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Radish Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Karam Dosa (2 Pcs Thin), Coconut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dondakaya Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Drumstick Tomato Curry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Papaya Cut Fruit",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Pickle",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Milk + Cofee Powder",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Lemon Coriander Soup",
+            "dietTag": "unspecified"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-09",
+      "hostel": "mens",
+      "menuType": "special",
+      "sourceDateLabel": "Mon\r\n9, 23",
+      "items": {
+        "breakfast": [
+          {
+            "text": "Vegetable Moong Dal Kitchidi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Bhature - 3 Pcs Big",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Peanut Chutney, Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chole Curry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Brown Bread+Peanut Butter+Jam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sprouts (1 small cup)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Cold Badam Milk without Sugar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Museli",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Masala Omlet (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Boiled Red Beans Salad (Veg)",
+            "dietTag": "veg"
+          }
+        ],
+        "lunch": [
+          {
+            "text": "Boiled Chana Salad with Onion & Tomato",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chapathi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Palak Dal",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Brinjal Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ghee Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "French Beans Potato Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ghobi Masala",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Fryums",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Butter Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sorakaya Perugu Chutney, Ghee + Podi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ghee + Podi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Semiya Sabhudhana Kheer",
+            "dietTag": "unspecified"
+          }
+        ],
+        "snacks": [
+          {
+            "text": "Mexican Sweet Corn Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Lemon Sauce",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Masala Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          }
+        ],
+        "dinner": [
+          {
+            "text": "Onions & Lemon Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Butter Methi Naan",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dal Tadka",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Jeera-Milagu Rasam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Bhagara Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chettinad Chicken Curry (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Paneer Green Peas Masala (Veg)",
+            "dietTag": "veg"
+          },
+          {
+            "text": "Snake Gourd Poriyal",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Water Melon Cut Fruit",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Gongura Pickle",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Milk + Cofee Powder",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mix Veg Raagi Soup",
+            "dietTag": "unspecified"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-10",
+      "hostel": "mens",
+      "menuType": "special",
+      "sourceDateLabel": "Tue\r\n10, 24",
+      "items": {
+        "breakfast": [
+          {
+            "text": "Ghee Podi Dosa (2 Pcs Thin)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pav Bhaji",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Coconut Chutney, Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mint Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Bread+Butter+Jam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ragi Malt with Salt (1 Medium Glass)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pomegranate Fresh Juice with Light Sugar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Museli",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Scrambled Egg (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Boiled Soya Bean Salad (Veg)",
+            "dietTag": "veg"
+          }
+        ],
+        "lunch": [
+          {
+            "text": "Carrot & Cucumber Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Roti",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Amaranthus Dal",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Beetroot Tomato Rasam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Bisbele Bath",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Kakarakaya (Bitter Gourd) Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Rajma Masala",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Kara Boondi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dahi Vada",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dosakaya Tomato Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ghee + Podi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Kalakand",
+            "dietTag": "unspecified"
+          }
+        ],
+        "snacks": [
+          {
+            "text": "Aloo Samosa 1 Big Pc",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Sauce, Salt Mirchi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          }
+        ],
+        "dinner": [
+          {
+            "text": "Beetroot & Carrot Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pulka",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dal Makhani",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Kadamba Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mushroom Biryani",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "French Beans Coconut Poriyal",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Aloo Mutter Curry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Banana",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Pickle",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Milk + Cofee Powder",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Brocolli Soup",
+            "dietTag": "unspecified"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-11",
+      "hostel": "mens",
+      "menuType": "special",
+      "sourceDateLabel": "Wed\r\n11, 25",
+      "items": {
+        "breakfast": [
+          {
+            "text": "Methu Vada (Big size 3pcs, if not 4pcs)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mix Veg Suji Bun",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Coconut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Brown Bread+Peanut Butter+Jam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sprouts (1 small cup)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Muskmelon Fresh Juice without Sugar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chocos",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Boiled Egg (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Boiled Chick Peas Salad (Veg)",
+            "dietTag": "veg"
+          }
+        ],
+        "lunch": [
+          {
+            "text": "Onions & Lemon Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Palak Roti",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Gongura (Sorrel Leaves) Dal",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Rasam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Vegetable Dum Pulav",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Andhra Chicken Fry",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Kaju Tomato Paneer Fry",
+            "dietTag": "veg"
+          },
+          {
+            "text": "Red Beans Curry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Trinagle Fryums",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Butter Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Coriander + Tomato Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Gulab Jamun",
+            "dietTag": "unspecified"
+          }
+        ],
+        "snacks": [
+          {
+            "text": "Bandi Style Ragda Chat",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Onion Small pieces",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ginger Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          }
+        ],
+        "dinner": [
+          {
+            "text": "Beetroot & Carrot Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chapathi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Dal",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Drumstick Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sooji Upma, Coconut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Bottle Guard Tomato Stir Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Soya Chunks Masala",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Green Grapes",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Lemon Pickle",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Milk + Cofee Powder",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Soup with Roasted Bread",
+            "dietTag": "unspecified"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "hostel": "mens",
+      "menuType": "special",
+      "sourceDateLabel": "Thu\r\n12, 26",
+      "items": {
+        "breakfast": [
+          {
+            "text": "Methi Poori (3 Pcs standard size)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Lemon Sevai",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Aloo Mutter Curry (12), Chickpea Masala (26)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Coconut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Bread+Butter+Jam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sprouts (1 small cup)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Grapes Fresh Juice without sugar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Cornflakes",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Masala Onion Omlet (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Boiled Chickpeas Salad (Veg)",
+            "dietTag": "veg"
+          }
+        ],
+        "lunch": [
+          {
+            "text": "Carrot & Cucumber Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pulka",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sorrel Leaves Dal (Gongura Pappu)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Drumstick Brinjal Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pudina Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Guthi Vankaya Curry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ridge Gourd Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Finger Fryums",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Lemon Water + Sabja Seeds",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Potlakaya Perugu Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ghee + Podi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Shahi Ki Tukda",
+            "dietTag": "unspecified"
+          }
+        ],
+        "snacks": [
+          {
+            "text": "Boiled Peanuts with Onion/Tomato(12 )",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Boiled Black Chana with Onion/Tomato (26)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          }
+        ],
+        "dinner": [
+          {
+            "text": "Onions & Lemon Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Roti",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dal Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Beetroot Tomato Rasam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Veg Manchuria, Noodles, Tomato Sauce",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chicken 65 / Andhra Fish Fry (NV)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Paneer 65 (Veg)",
+            "dietTag": "veg"
+          },
+          {
+            "text": "Black Channa Curry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Banana",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Gongura Fresh Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Milk + Cofee Powder",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Creamy Mushroom Soup",
+            "dietTag": "unspecified"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-13",
+      "hostel": "mens",
+      "menuType": "special",
+      "sourceDateLabel": "Fri\r\n13, 27",
+      "items": {
+        "breakfast": [
+          {
+            "text": "Uggani + Mirchi Bajji",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Vegetable Daliya Kitchidi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Coconut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mango Pickle",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Brown Bread+Peanut Butter+Jam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sprouts (1 small cup)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sweet Lime + Pineapple Fresh Juice without sugar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Museli",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Boiled Egg (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Boiled Peanut Sundal (Veg)",
+            "dietTag": "veg"
+          }
+        ],
+        "lunch": [
+          {
+            "text": "Beetroot & Cucumber Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chapathi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dal Tadka",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Rasam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Jeera Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Raw Banana Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Red Rajma Masala",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Papad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Butter Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Beerakaya Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Moong Dal Payasam",
+            "dietTag": "unspecified"
+          }
+        ],
+        "snacks": [
+          {
+            "text": "Aloo Bonda (Medium size 2 pc)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Coconut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          }
+        ],
+        "dinner": [
+          {
+            "text": "Onions & Lemon Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Lacha Paratha",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pesara Pappu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mix Veg Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Garlic Chicken Curry (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Paneer Tikka Masala (Veg)",
+            "dietTag": "veg"
+          },
+          {
+            "text": "Tomato Peas Capsicum Masala",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Muskmelon Cut Fruit",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mango Pickle",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Milk + Cofee Powder",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sweet Corn Soup",
+            "dietTag": "unspecified"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-14",
+      "hostel": "mens",
+      "menuType": "special",
+      "sourceDateLabel": "Sat\r\n14, 28",
+      "items": {
+        "breakfast": [
+          {
+            "text": "Mix Veg Utappam - 2 Pcs Std Size",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Vegetable Poha",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Peanut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Bread+Butter+Jam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sprouts (1 small cup)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Watermelon & Pomegranate Juice with Light Sugar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chocos",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Boiled Egg (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Sweet Potato Salad (Veg)",
+            "dietTag": "veg"
+          }
+        ],
+        "lunch": [
+          {
+            "text": "Carrot & Cucumber Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pulka",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mudda Pappu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pachi Pulusu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pulihora (Tamarind Rice)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Radish Tomato Stir Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chole Curry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Papad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Majiga Pulusu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Avakaya (Mango Pickle)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ghee + Podi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Carrot Halwa",
+            "dietTag": "unspecified"
+          }
+        ],
+        "snacks": [
+          {
+            "text": "Punugulu 8 Pcs Medium Size",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Groundnut/Coconut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Cold Badam Milk 150 ml",
+            "dietTag": "unspecified"
+          }
+        ],
+        "dinner": [
+          {
+            "text": "Beetroot & Carrot Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Roti",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dal Maharani",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Bendakaya (Bhindi) Pulusu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Vegetable Fried Rice, Gobhi Manchuria, Tomato Sauce",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Cabbage Beans Poriyal",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Fruit Custard with Custard Apple",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Red Chilli Pickle",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Milk + Cofee Powder",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Red Lentil Soup",
+            "dietTag": "unspecified"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-15",
+      "hostel": "mens",
+      "menuType": "special",
+      "sourceDateLabel": "Sun\r\n1, 15, 29",
+      "items": {
+        "breakfast": [
+          {
+            "text": "Shavige Bath",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Paneer Paratha - 2 Pcs Thin",
+            "dietTag": "veg"
+          },
+          {
+            "text": "Peanut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd, Mango Pickle",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Brown Bread+Peanut Butter+Jam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sprouts (1 small cup)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Apple + Pomegranate Fresh Juice without Sugar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Cornflakes",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Egg Bhurji (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Raagi Malt (Veg)",
+            "dietTag": "veg"
+          }
+        ],
+        "lunch": [
+          {
+            "text": "Onions & Lemon Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chapathi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dal Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chicken Dum Biryani",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Paneer Dum Biryani",
+            "dietTag": "veg"
+          },
+          {
+            "text": "Chicken Thick Gravy",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Hyderabadi Mirchi Ka Salan",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Rasam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Onion Raitha",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Triangular Fryums",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mint Lemon Jal Jeera Drink (200 ml)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Fresh Gongura Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Vanilla Ice Cream  (Not Frozen Dessert)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Gulab Jamun",
+            "dietTag": "unspecified"
+          }
+        ],
+        "snacks": [
+          {
+            "text": "Cup Cake (Egg Less) 2 Pcs (1), Dahi Puri (8 Pcs), Onions (15, 29)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Masala Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          }
+        ],
+        "dinner": [
+          {
+            "text": "Beetroot & Carrot Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pulka",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pesara Pappu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Radish Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ragi Idly, Groundnut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dondakaya Stir Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Vegetable Kurma Gravy",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Papaya Cut Fruit",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Pickle",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Milk + Cofee Powder",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Lemon Coriander Soup",
+            "dietTag": "unspecified"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-16",
+      "hostel": "mens",
+      "menuType": "special",
+      "sourceDateLabel": "Mon\r\n2, 16, 30",
+      "items": {
+        "breakfast": [
+          {
+            "text": "Ghee + Veg Pongal",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Bhature - 2 Pcs Big",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Groundnut Chutney, Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chole Curry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Bread+Butter+Jam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sprouts (1 small cup)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Banana Milk Shake without Sugar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Cornflakes",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Boiled Egg (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Boiled Mixed Beans Salad (Veg)",
+            "dietTag": "veg"
+          }
+        ],
+        "lunch": [
+          {
+            "text": "Boiled Chana Salad with Onion & Tomato",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chapathi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Palak Dal",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Brinjal Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pesara Punugulu Curry (Pakka Andhra Style)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Capsicum Tomato Masala",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Fryums",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Butter Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sorakaya Perugu Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ghee + Podi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Jilebi",
+            "dietTag": "unspecified"
+          }
+        ],
+        "snacks": [
+          {
+            "text": "Dry Maggi (Non-Sticky)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Sauce",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          }
+        ],
+        "dinner": [
+          {
+            "text": "Onions & Lemon Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Butter Methi Naan",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pesara Pappu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Andhra Charu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Bhagara Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Hyderabadi Chicken Curry (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Paneer Butter Masala (Veg)",
+            "dietTag": "veg"
+          },
+          {
+            "text": "Ladies Finger Boiled Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Water Melon Cut Fruit",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Radish Fresh Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Milk + Cofee Powder",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sweet Corn Soup",
+            "dietTag": "unspecified"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-17",
+      "hostel": "mens",
+      "menuType": "special",
+      "sourceDateLabel": "Tue\r\n3, 17",
+      "items": {
+        "breakfast": [
+          {
+            "text": "Onion Dosa (3), Masala Dosa (17) - 2 Pcs Std Size",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Vada Pav",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Coconut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mint Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Brown Bread+Peanut Butter+Jam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ragi Malt with Salt (1 Medium Glass)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pomegranate Fresh Juice without Sugar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chocos",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Boiled Egg (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Crunchy Soya Vegetable Salad (Veg)",
+            "dietTag": "veg"
+          }
+        ],
+        "lunch": [
+          {
+            "text": "Carrot & Cucumber Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Roti",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dosakaya Pappu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Beetroot Tomato Rasam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Bisbele Bath",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Kakarakaya (Bitter Gourd) Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Rajma Masala",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Potato Chips",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dahi Vada",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dosakaya Tomato Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ghee + Podi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Makkan Peda",
+            "dietTag": "unspecified"
+          }
+        ],
+        "snacks": [
+          {
+            "text": "Aloo Samosa 1 Big Pc",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Sauce, Salt Mirchi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ginger Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          }
+        ],
+        "dinner": [
+          {
+            "text": "Beetroot & Carrot Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pulka",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dal Makhani",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Kadamba Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mushroom Biryani",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Cluster Beans Coconut Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Aloo Mutter Curry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Banana Fruit",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ginger Pickle",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Milk + Cofee Powder",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Brocolli Soup",
+            "dietTag": "unspecified"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-18",
+      "hostel": "mens",
+      "menuType": "special",
+      "sourceDateLabel": "Wed           4, 18",
+      "items": {
+        "breakfast": [
+          {
+            "text": "Pesarattu Thin 2 Pcs Std Size",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Suji Upma",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Coconut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ginger Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Bread+Butter+Jam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sprouts (1 small cup)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pineapple Fresh Juice without Sugar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chocos",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Masala Onion Omlet  (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Greek Yogurt Salad (Veg)",
+            "dietTag": "veg"
+          }
+        ],
+        "lunch": [
+          {
+            "text": "Onions & Lemon Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Palak Roti",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Amaranthus Dal",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pachi Pulusu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Bhagara Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Kadai Chicken",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Kadai Paneer",
+            "dietTag": "veg"
+          },
+          {
+            "text": "Vegetable Jalfrezi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Papad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Butter Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Fresh Vegetable Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Semiya Sabhudhana Kheer (4), Double ka Meeta (18)",
+            "dietTag": "unspecified"
+          }
+        ],
+        "snacks": [
+          {
+            "text": "Bhelpuri",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ginger Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          }
+        ],
+        "dinner": [
+          {
+            "text": "Beetroot & Carrot Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chapathi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Dal",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Garlic Rasam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Broken Wheat Rava Upma, Coconut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Bottle Guard Chana Dal Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Aloo Mutter Curry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pine Apple Cut Fruit",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Lemon Pickle",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Milk + Cofee Powder",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Soup with Roasted Bread",
+            "dietTag": "unspecified"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-19",
+      "hostel": "mens",
+      "menuType": "special",
+      "sourceDateLabel": "Thu\r\n5, 19",
+      "items": {
+        "breakfast": [
+          {
+            "text": "Medu Vada (Big size 3pcs, if not 4pcs)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pav Bhaji",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Coconut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Brown Bread+Butter+Jam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sprouts (1 small cup)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Papaya Fresh Juice without Sugar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Cornflakes",
+            "dietTag": "unspecified"
+          }
+        ],
+        "lunch": [
+          {
+            "text": "Carrot & Cucumber Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pulka",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ridge Gourd Dal",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Drumstick Brinjal Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pudina Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Guthi Vankaya Curry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Kala Chana Masala",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Finger Fryums",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Lemon Water + Sabja Seeds",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Potlakaya Perugu Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ghee + Podi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mothichoor Laddu",
+            "dietTag": "unspecified"
+          }
+        ],
+        "snacks": [
+          {
+            "text": "Mysore Bonda 2 Pcs Std Size (Less Oily)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Coconut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          }
+        ],
+        "dinner": [
+          {
+            "text": "Beetroot & Carrot Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Roti",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dal Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Beetroot Tomato Rasam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Veg Manchurian, Noodles, Tomato Sauce",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chicken Tikka Fry/Malabar Fish Fry (NV)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Paneer Tikka/Chilli Babycorn (Veg)",
+            "dietTag": "veg"
+          },
+          {
+            "text": "Dhaba Style Egg Curry (Special Non-Veg), Paneer Bhurji (Special Veg)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Rajma Masala",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Green Grapes",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Gongura Fresh Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Milk + Cofee Powder",
+            "dietTag": "unspecified"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-20",
+      "hostel": "mens",
+      "menuType": "special",
+      "sourceDateLabel": "Fri\r\n6, 20",
+      "items": {
+        "breakfast": [
+          {
+            "text": "Poori (3 pcs standard size)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Rice Rava Upma (Dry)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Aloo Basin Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dal Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Brown Bread+Peanut Butter+Jam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ragi Malt with Salt (1 Medium Glass)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Grapes Fresh Juice with Light Sugar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Museli",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Boiled Egg (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Boiled Chick Peas Salad (Veg)",
+            "dietTag": "veg"
+          }
+        ],
+        "lunch": [
+          {
+            "text": "Beetroot & Cucumber Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chapathi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dal Tadka",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Andhra Charu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Jeera Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Raw Banana Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Turnip Spinach Curry (Punjabi Style)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Papad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Lassi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Beerakaya Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Carrot Halwa",
+            "dietTag": "unspecified"
+          }
+        ],
+        "snacks": [
+          {
+            "text": "Sambar Vada 2 Pcs (Separate)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Masala Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          }
+        ],
+        "dinner": [
+          {
+            "text": "Onions & Lemon Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Beetroot Chapathi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dal",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mix Veg Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chicken Tikka Masala (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Paneer Lababdar (Veg)",
+            "dietTag": "veg"
+          },
+          {
+            "text": "Amritsari Chole",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Muskmelon Cut Fruit",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Amla Pickle",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Milk + Cofee Powder",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mix Veg Raagi Soup",
+            "dietTag": "unspecified"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-21",
+      "hostel": "mens",
+      "menuType": "special",
+      "sourceDateLabel": "Sat\r\n7, 21",
+      "items": {
+        "breakfast": [
+          {
+            "text": "Uggani + Mirchi Bajji",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Moong Dal Palak Tepla (Hand Made) 2 Pcs",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Groundnut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Onion Tomato Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Brown Bread+Peanut Butter+Jam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ragi Malt with Salt (1 Medium Glass)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mosambi Fresh Juice without Sugar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Cornflakes",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Boiled Egg (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Boiled Peanut Sundal (Veg)",
+            "dietTag": "veg"
+          }
+        ],
+        "lunch": [
+          {
+            "text": "Carrot & Cucumber Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pulka",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mudda Pappu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pachi Pulusu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pulihora (Tamarind Rice)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Cauli Flower Tomato Stir Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chole Curry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Papad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Majjiga Pulusu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Avakaya (Mango Pickle)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ghee + Podi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chocolate Cake (Egg Less)",
+            "dietTag": "unspecified"
+          }
+        ],
+        "snacks": [
+          {
+            "text": "Vada Pav 2 Pcs",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mint Sauce",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Cold Badam Milk 150 ml",
+            "dietTag": "unspecified"
+          }
+        ],
+        "dinner": [
+          {
+            "text": "Beetroot & Carrot Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Roti",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dal Maharani",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Drumstick Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ghee + Podi + Idly, Coconut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Baingan Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Banana",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Red Chilli Pickle",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Milk + Cofee Powder",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Veg Manchow Soup",
+            "dietTag": "unspecified"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-22",
+      "hostel": "mens",
+      "menuType": "special",
+      "sourceDateLabel": "Sun\r\n8, 22",
+      "items": {
+        "breakfast": [
+          {
+            "text": "Shavige Bath",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Aloo Paratha (2 Pcs Thin)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mint Coriander Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd, Mango Pickle",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Bread+Butter+Jam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sprouts (1 small cup)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Apple + Pomegranate Fresh Juice without Sugar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Museli",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Egg Bhurji (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Ragi Malt (Veg)",
+            "dietTag": "veg"
+          }
+        ],
+        "lunch": [
+          {
+            "text": "Onions & Lemon Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chapathi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dal Makhani",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chicken Fry Piece Biryani",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Paneer Fry Piece Biryani",
+            "dietTag": "veg"
+          },
+          {
+            "text": "Chicken Thick Gravy",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Hyderabadi Mirchi Ka Salan",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Onion Raitha",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Rasam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Fryums",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mint Lemon Jal Jeera Drink (200 ml)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Fresh Gongura Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Vanilla Ice Cream  (Not Frozen Dessert)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Gajar Ka Halwa",
+            "dietTag": "unspecified"
+          }
+        ],
+        "snacks": [
+          {
+            "text": "Dahi Papdi Chat",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Onions",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          }
+        ],
+        "dinner": [
+          {
+            "text": "Beetroot & Carrot Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pulka",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pesara Pappu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Radish Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Karam Dosa (2 Pcs Thin), Coconut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dondakaya Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Drumstick Tomato Curry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Papaya Cut Fruit",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Pickle",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Milk + Cofee Powder",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Lemon Coriander Soup",
+            "dietTag": "unspecified"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-23",
+      "hostel": "mens",
+      "menuType": "special",
+      "sourceDateLabel": "Mon\r\n9, 23",
+      "items": {
+        "breakfast": [
+          {
+            "text": "Vegetable Moong Dal Kitchidi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Bhature - 3 Pcs Big",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Peanut Chutney, Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chole Curry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Brown Bread+Peanut Butter+Jam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sprouts (1 small cup)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Cold Badam Milk without Sugar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Museli",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Masala Omlet (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Boiled Red Beans Salad (Veg)",
+            "dietTag": "veg"
+          }
+        ],
+        "lunch": [
+          {
+            "text": "Boiled Chana Salad with Onion & Tomato",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chapathi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Palak Dal",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Brinjal Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ghee Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "French Beans Potato Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ghobi Masala",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Fryums",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Butter Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sorakaya Perugu Chutney, Ghee + Podi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ghee + Podi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Semiya Sabhudhana Kheer",
+            "dietTag": "unspecified"
+          }
+        ],
+        "snacks": [
+          {
+            "text": "Mexican Sweet Corn Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Lemon Sauce",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Masala Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          }
+        ],
+        "dinner": [
+          {
+            "text": "Onions & Lemon Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Butter Methi Naan",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dal Tadka",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Jeera-Milagu Rasam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Bhagara Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chettinad Chicken Curry (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Paneer Green Peas Masala (Veg)",
+            "dietTag": "veg"
+          },
+          {
+            "text": "Snake Gourd Poriyal",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Water Melon Cut Fruit",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Gongura Pickle",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Milk + Cofee Powder",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mix Veg Raagi Soup",
+            "dietTag": "unspecified"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-24",
+      "hostel": "mens",
+      "menuType": "special",
+      "sourceDateLabel": "Tue\r\n10, 24",
+      "items": {
+        "breakfast": [
+          {
+            "text": "Ghee Podi Dosa (2 Pcs Thin)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pav Bhaji",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Coconut Chutney, Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mint Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Bread+Butter+Jam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ragi Malt with Salt (1 Medium Glass)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pomegranate Fresh Juice with Light Sugar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Museli",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Scrambled Egg (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Boiled Soya Bean Salad (Veg)",
+            "dietTag": "veg"
+          }
+        ],
+        "lunch": [
+          {
+            "text": "Carrot & Cucumber Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Roti",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Amaranthus Dal",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Beetroot Tomato Rasam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Bisbele Bath",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Kakarakaya (Bitter Gourd) Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Rajma Masala",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Kara Boondi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dahi Vada",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dosakaya Tomato Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ghee + Podi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Kalakand",
+            "dietTag": "unspecified"
+          }
+        ],
+        "snacks": [
+          {
+            "text": "Aloo Samosa 1 Big Pc",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Sauce, Salt Mirchi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          }
+        ],
+        "dinner": [
+          {
+            "text": "Beetroot & Carrot Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pulka",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dal Makhani",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Kadamba Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mushroom Biryani",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "French Beans Coconut Poriyal",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Aloo Mutter Curry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Banana",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Pickle",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Milk + Cofee Powder",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Brocolli Soup",
+            "dietTag": "unspecified"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-25",
+      "hostel": "mens",
+      "menuType": "special",
+      "sourceDateLabel": "Wed\r\n11, 25",
+      "items": {
+        "breakfast": [
+          {
+            "text": "Methu Vada (Big size 3pcs, if not 4pcs)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mix Veg Suji Bun",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Coconut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Brown Bread+Peanut Butter+Jam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sprouts (1 small cup)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Muskmelon Fresh Juice without Sugar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chocos",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Boiled Egg (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Boiled Chick Peas Salad (Veg)",
+            "dietTag": "veg"
+          }
+        ],
+        "lunch": [
+          {
+            "text": "Onions & Lemon Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Palak Roti",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Gongura (Sorrel Leaves) Dal",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Rasam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Vegetable Dum Pulav",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Andhra Chicken Fry",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Kaju Tomato Paneer Fry",
+            "dietTag": "veg"
+          },
+          {
+            "text": "Red Beans Curry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Trinagle Fryums",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Butter Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Coriander + Tomato Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Gulab Jamun",
+            "dietTag": "unspecified"
+          }
+        ],
+        "snacks": [
+          {
+            "text": "Bandi Style Ragda Chat",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Onion Small pieces",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ginger Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          }
+        ],
+        "dinner": [
+          {
+            "text": "Beetroot & Carrot Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chapathi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Dal",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Drumstick Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sooji Upma, Coconut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Bottle Guard Tomato Stir Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Soya Chunks Masala",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Green Grapes",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Lemon Pickle",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Milk + Cofee Powder",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Soup with Roasted Bread",
+            "dietTag": "unspecified"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-26",
+      "hostel": "mens",
+      "menuType": "special",
+      "sourceDateLabel": "Thu\r\n12, 26",
+      "items": {
+        "breakfast": [
+          {
+            "text": "Methi Poori (3 Pcs standard size)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Lemon Sevai",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Aloo Mutter Curry (12), Chickpea Masala (26)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Coconut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Bread+Butter+Jam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sprouts (1 small cup)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Grapes Fresh Juice without sugar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Cornflakes",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Masala Onion Omlet (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Boiled Chickpeas Salad (Veg)",
+            "dietTag": "veg"
+          }
+        ],
+        "lunch": [
+          {
+            "text": "Carrot & Cucumber Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pulka",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sorrel Leaves Dal (Gongura Pappu)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Drumstick Brinjal Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pudina Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Guthi Vankaya Curry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ridge Gourd Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Finger Fryums",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Lemon Water + Sabja Seeds",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Potlakaya Perugu Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ghee + Podi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Shahi Ki Tukda",
+            "dietTag": "unspecified"
+          }
+        ],
+        "snacks": [
+          {
+            "text": "Boiled Peanuts with Onion/Tomato(12 )",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Boiled Black Chana with Onion/Tomato (26)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          }
+        ],
+        "dinner": [
+          {
+            "text": "Onions & Lemon Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Roti",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dal Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Beetroot Tomato Rasam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Veg Manchuria, Noodles, Tomato Sauce",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chicken 65 / Andhra Fish Fry (NV)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Paneer 65 (Veg)",
+            "dietTag": "veg"
+          },
+          {
+            "text": "Black Channa Curry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Banana",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Gongura Fresh Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Milk + Cofee Powder",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Creamy Mushroom Soup",
+            "dietTag": "unspecified"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-27",
+      "hostel": "mens",
+      "menuType": "special",
+      "sourceDateLabel": "Fri\r\n13, 27",
+      "items": {
+        "breakfast": [
+          {
+            "text": "Uggani + Mirchi Bajji",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Vegetable Daliya Kitchidi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Coconut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mango Pickle",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Brown Bread+Peanut Butter+Jam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sprouts (1 small cup)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sweet Lime + Pineapple Fresh Juice without sugar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Museli",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Boiled Egg (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Boiled Peanut Sundal (Veg)",
+            "dietTag": "veg"
+          }
+        ],
+        "lunch": [
+          {
+            "text": "Beetroot & Cucumber Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chapathi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dal Tadka",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Rasam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Jeera Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Raw Banana Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Red Rajma Masala",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Papad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Butter Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Beerakaya Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Moong Dal Payasam",
+            "dietTag": "unspecified"
+          }
+        ],
+        "snacks": [
+          {
+            "text": "Aloo Bonda (Medium size 2 pc)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Coconut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          }
+        ],
+        "dinner": [
+          {
+            "text": "Onions & Lemon Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Lacha Paratha",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pesara Pappu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mix Veg Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Garlic Chicken Curry (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Paneer Tikka Masala (Veg)",
+            "dietTag": "veg"
+          },
+          {
+            "text": "Tomato Peas Capsicum Masala",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Muskmelon Cut Fruit",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mango Pickle",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Milk + Cofee Powder",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sweet Corn Soup",
+            "dietTag": "unspecified"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-28",
+      "hostel": "mens",
+      "menuType": "special",
+      "sourceDateLabel": "Sat\r\n14, 28",
+      "items": {
+        "breakfast": [
+          {
+            "text": "Mix Veg Utappam - 2 Pcs Std Size",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Vegetable Poha",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Peanut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Bread+Butter+Jam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sprouts (1 small cup)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Watermelon & Pomegranate Juice with Light Sugar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chocos",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Boiled Egg (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Sweet Potato Salad (Veg)",
+            "dietTag": "veg"
+          }
+        ],
+        "lunch": [
+          {
+            "text": "Carrot & Cucumber Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pulka",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mudda Pappu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pachi Pulusu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pulihora (Tamarind Rice)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Radish Tomato Stir Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chole Curry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Papad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Majiga Pulusu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Avakaya (Mango Pickle)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ghee + Podi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Carrot Halwa",
+            "dietTag": "unspecified"
+          }
+        ],
+        "snacks": [
+          {
+            "text": "Punugulu 8 Pcs Medium Size",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Groundnut/Coconut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Cold Badam Milk 150 ml",
+            "dietTag": "unspecified"
+          }
+        ],
+        "dinner": [
+          {
+            "text": "Beetroot & Carrot Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Roti",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dal Maharani",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Bendakaya (Bhindi) Pulusu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Vegetable Fried Rice, Gobhi Manchuria, Tomato Sauce",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Cabbage Beans Poriyal",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Fruit Custard with Custard Apple",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Red Chilli Pickle",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Milk + Cofee Powder",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Red Lentil Soup",
+            "dietTag": "unspecified"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-29",
+      "hostel": "mens",
+      "menuType": "special",
+      "sourceDateLabel": "Sun\r\n1, 15, 29",
+      "items": {
+        "breakfast": [
+          {
+            "text": "Shavige Bath",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Paneer Paratha - 2 Pcs Thin",
+            "dietTag": "veg"
+          },
+          {
+            "text": "Peanut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd, Mango Pickle",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Brown Bread+Peanut Butter+Jam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sprouts (1 small cup)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Apple + Pomegranate Fresh Juice without Sugar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Cornflakes",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Egg Bhurji (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Raagi Malt (Veg)",
+            "dietTag": "veg"
+          }
+        ],
+        "lunch": [
+          {
+            "text": "Onions & Lemon Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chapathi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dal Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chicken Dum Biryani",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Paneer Dum Biryani",
+            "dietTag": "veg"
+          },
+          {
+            "text": "Chicken Thick Gravy",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Hyderabadi Mirchi Ka Salan",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Rasam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Onion Raitha",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Triangular Fryums",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Mint Lemon Jal Jeera Drink (200 ml)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Fresh Gongura Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Vanilla Ice Cream  (Not Frozen Dessert)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Gulab Jamun",
+            "dietTag": "unspecified"
+          }
+        ],
+        "snacks": [
+          {
+            "text": "Cup Cake (Egg Less) 2 Pcs (1), Dahi Puri (8 Pcs), Onions (15, 29)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Masala Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          }
+        ],
+        "dinner": [
+          {
+            "text": "Beetroot & Carrot Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pulka",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pesara Pappu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Radish Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ragi Idly, Groundnut Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Dondakaya Stir Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Vegetable Kurma Gravy",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Papaya Cut Fruit",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Pickle",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Milk + Cofee Powder",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Lemon Coriander Soup",
+            "dietTag": "unspecified"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-30",
+      "hostel": "mens",
+      "menuType": "special",
+      "sourceDateLabel": "Mon\r\n2, 16, 30",
+      "items": {
+        "breakfast": [
+          {
+            "text": "Ghee + Veg Pongal",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Bhature - 2 Pcs Big",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Groundnut Chutney, Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chole Curry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Bread+Butter+Jam",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sprouts (1 small cup)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Banana Milk Shake without Sugar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Cornflakes",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Boiled Egg (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Boiled Mixed Beans Salad (Veg)",
+            "dietTag": "veg"
+          }
+        ],
+        "lunch": [
+          {
+            "text": "Boiled Chana Salad with Onion & Tomato",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Chapathi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Palak Dal",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Brinjal Sambar",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pesara Punugulu Curry (Pakka Andhra Style)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Capsicum Tomato Masala",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Fryums",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Butter Milk",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sorakaya Perugu Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Ghee + Podi",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Jilebi",
+            "dietTag": "unspecified"
+          }
+        ],
+        "snacks": [
+          {
+            "text": "Dry Maggi (Non-Sticky)",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tomato Sauce",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Tea/Coffee/Milk",
+            "dietTag": "unspecified"
+          }
+        ],
+        "dinner": [
+          {
+            "text": "Onions & Lemon Salad",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Butter Methi Naan",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "White Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Pesara Pappu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Andhra Charu",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Bhagara Rice",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Hyderabadi Chicken Curry (Non-Veg)",
+            "dietTag": "nonVeg"
+          },
+          {
+            "text": "Paneer Butter Masala (Veg)",
+            "dietTag": "veg"
+          },
+          {
+            "text": "Ladies Finger Boiled Fry",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Thick Curd",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Water Melon Cut Fruit",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Radish Fresh Chutney",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Milk + Cofee Powder",
+            "dietTag": "unspecified"
+          },
+          {
+            "text": "Sweet Corn Soup",
+            "dietTag": "unspecified"
+          }
+        ]
+      }
+    }
+  ]
+}
